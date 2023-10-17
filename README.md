@@ -21,5 +21,27 @@ In the "desktop-first" version of this project:
    ```sh
    git clone https://github.com/SudhirLokade/Testomonial-Grid.git
    ```
-2. Open the project in web browser
+2. Change Directory
+   ```sh
+   cd Testomonial-Grid
+   ```
+4. Open the project in web browser
+
+   [Testomonial Grid](https://sudhirlokade.github.io/Testomonial-Grid/)
+
+3. Use the browser's developer tools to switch between different screen sizes to see how the design adapts.
+
+# Contact
+
+If you have any questions, suggestions, or feedback, feel free to reach out to me:
+
+- Email: sudhirlokade111@gmail.com
+- Github: [Sudhir Lokade](https://github.com/SudhirLokade)
+- Linked in: [Sudhir Lokade](https://www.linkedin.com/in/sudhirlokade)
+- Twitter: [Sudhir Lokade](www.twitter.com/SudhirLokade)
+
+I'd love to hear from you!
+
+Happy Coding!
+
    
