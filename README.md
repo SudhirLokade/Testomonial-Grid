@@ -26,7 +26,8 @@ In the "desktop-first" version of this project:
    cd Testomonial-Grid
    ```
 4. Open the project in web browser
-   [TEstomonial Grid](https://sudhirlokade.github.io/Testomonial-Grid/)
+   
+   [Testomonial Grid](https://sudhirlokade.github.io/Testomonial-Grid/)
 
 3. Use the browser's developer tools to switch between different screen sizes to see how the design adapts.
 
