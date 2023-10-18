@@ -21,7 +21,7 @@ In the "desktop-first" version of this project:
    ```sh
    git clone https://github.com/SudhirLokade/Testomonial-Grid.git
    ```
-2. # Change Directory
+2. Change Directory
    ```sh
    cd Testomonial-Grid
    ```
